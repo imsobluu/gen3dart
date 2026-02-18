@@ -4,6 +4,10 @@ A real-time 3D kinetic sculpture inspired by the [BMW Museum Kinetic Installatio
 
 Built with C++ and OpenGL 3.3.
 
+## Demo
+
+![Demo](demo.gif)
+
 ## Features
 
 - **625 animated pillars** on a 25×25 grid, each independently driven by mathematical wave functions
