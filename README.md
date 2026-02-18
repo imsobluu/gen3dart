@@ -1,6 +1,6 @@
 # 3D Kinetic Sculpture
 
-A real-time 3D kinetic sculpture inspired by the [BMW Museum Kinetic Installation](https://www.youtube.com/watch?v=uLmEkCf5OSM). A 25×25 grid of metallic pillars oscillates vertically, driven by layered sine-wave patterns, illuminated by orbiting point lights with Blinn-Phong shading.
+A real-time 3D kinetic sculpture inspired by the [BMW Museum Kinetic Installation](https://www.youtube.com/watch?v=3iEoEgC9jvM). A 25×25 grid of metallic pillars oscillates vertically, driven by layered sine-wave patterns, illuminated by orbiting point lights with Blinn-Phong shading.
 
 Built with C++ and OpenGL 3.3.
 
@@ -113,4 +113,4 @@ A minimal pass-through that renders the light orbs as flat emissive spheres.
 ## Acknowledgements
 
 - [LearnOpenGL](https://learnopengl.com/) by Joey de Vries — framework headers and tutorials
-- [BMW Museum Kinetic Sculpture](https://www.youtube.com/watch?v=uLmEkCf5OSM) — visual inspiration
+- [BMW Museum Kinetic Sculpture](https://www.youtube.com/watch?v=3iEoEgC9jvM) — visual inspiration
