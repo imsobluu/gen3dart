@@ -7,6 +7,7 @@ Built with C++ and OpenGL 3.3.
 ## Demo
 
 ![Demo](demo.gif)
+<video src="https://github.com/user-attachments/assets/f5b545ee-6f1c-4cef-be71-71eed2be1e6f" controls autoplay loop muted width="100%"></video>
 
 ## Features
 
